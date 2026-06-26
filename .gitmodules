@@ -50,3 +50,6 @@
 [submodule "Tweaks/NoYTPremium"]
 	path = Tweaks/NoYTPremium
 	url = https://github.com/PoomSmart/NoYTPremium
+[submodule "Tweaks/RemoteLog"]
+	path = Tweaks/RemoteLog
+	url = https://github.com/Muirey03/RemoteLog.git
