@@ -13,17 +13,17 @@ on:
         type: string
       decrypted_youtube_url:
         description: "Direct URL of the decrypted YouTube ipa"
-        default: "https://files.catbox.moe/5a8qlt.ipa"
+        default: ""
         required: true
         type: string
       bundle_id:
         description: "Modify the bundle ID"
-        default: "com.google.ios.youtube"
+        default: "com.voidxO7.ios.ytomega"
         required: true
         type: string
       app_name:
         description: "Modify the app name"
-        default: "YouTube"
+        default: "YTOmega"
         required: true
         type: string
       commit_id:
