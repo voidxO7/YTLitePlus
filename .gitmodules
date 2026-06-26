@@ -62,3 +62,6 @@
 [submodule "Tweaks/YouSpeed"]
 	path = Tweaks/YouSpeed
 	url = https://github.com/PoomSmart/YouSpeed.git
+[submodule "Tweaks/YouTube-X"]
+	path = Tweaks/YouTube-X
+	url = https://github.com/PoomSmart/YouTube-X.git
